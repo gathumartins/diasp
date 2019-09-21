@@ -1,0 +1,14 @@
+/**
+* Theme Name: Diaspora Theme
+* Description: Diaspora portal angular wordpress theme
+* Author: Martin Gathu
+* Version: 1.0.0
+* Template: Newspaper
+* Text Domain: Diaspora-theme
+*/
+.td-header-style-3 .td-header-sp-logo{
+    margin: 28px 28px 28px 0px;
+}
+.td-header-sp-logo img{
+    margin:auto 0;
+}

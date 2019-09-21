@@ -24,9 +24,17 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "src/assets/css/fade-down.css",
+              "src/assets/css/webslidemenu.css",
+              "src/assets/css/black-red.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/jquery/dist/jquery.min.js",
+              "src/assets/js/webslidemenu.js",
+              "src/assets/js/custom.js"
+            ]
           },
           "configurations": {
             "production": {

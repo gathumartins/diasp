@@ -1,0 +1,143 @@
+@import url('engine1/style.css');
+.mainCont{
+    padding:15px 0px;
+    width: 100%;
+    max-width: 1140px;
+    margin: auto;
+}
+.homeSlider{
+    min-height: 315px;
+    background: #000000;
+}
+.mainContsSect h3 {
+  font-size: 1.50rem;
+  font-weight: 600;
+}
+
+hr {
+  border: none;
+  border-top: 3px solid #E92D33;
+  overflow: visible;
+  margin-top: 0rem;
+}
+.mainContsSectInn{
+    min-height: 250px;
+    padding: 15px 0;
+}
+.readMore{
+    padding: 3px 6px 2px;
+    background-color: #E92D33;
+    color: #ffffff;
+    margin-top: -28px;
+}
+.newsFeed{
+    padding-inline-start: 0px;
+}
+.newsFeed li{
+    list-style: none;
+    text-align: left;
+}
+.newsLinks{
+    text-decoration:underline;
+    color: #000000;
+    font-size: 0.8rem;
+}
+.newsLinks:hover{
+    text-decoration: underline;
+    color: #E92D33;
+}
+/* side bar */
+.sideBarLatestNews{
+    min-height: 315px;
+    background: #E4E4E4;
+    padding: 8px 15px 0px;
+}
+.sideBar h3 {
+  font-size: 1.20rem;
+  font-weight: 600;
+}
+
+.sideBar hr {
+  border: none;
+  border-top: 3px solid #E92D33;
+  overflow: visible;
+  text-align:left;
+  max-width: 210px;
+  margin-top: 0rem;
+}
+.sideBar img{
+    width: 100%;
+}
+.newsMore {
+  padding: 3px 6px 2px;
+  background-color: #E92D33;
+  color: #ffffff;
+  position: relative;
+  top:-30px;
+  right: -15px;
+  clear: both;
+}
+.newsLtter{
+    padding: 15px;
+    background-color: #E4E4E4;
+    min-height: 200px;
+}
+.newsLtter p{
+    font-size: 0.8rem;
+}
+.newsLtter span{
+    color: #E92D33;
+    font-size: 0.8rem;
+}
+.specHeading h3{
+    color: #E92D33;
+}
+.specHeading hr{
+    max-width: 100%;
+}
+.realAds{
+   padding-inline-start: 0px;
+}
+.realAds li{
+    list-style: none;
+}
+.realAds li a{
+    color: #E92D33;
+    text-decoration: underline;
+    font-size: 0.8rem;
+}
+.mainContCont img{
+    width: 100%;
+}
+.mainContExtra h5{
+    font-size: 1.0rem;
+    font-weight: 600;
+}
+.mainContExtra p{
+    font-size: 0.9rem;
+    text-align: left;
+}
+.mainContExtra a{
+    color: #E92D33;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+.myJobs a{
+    color: #000000;
+}
+.myJobs a:hover{
+    color: #E92D33;
+    text-decoration: none;
+}
+.myJobs h5{
+   font-size: 1.0rem;
+   font-weight: 600;
+}
+.myJobs p{
+   font-size: 0.9rem;
+   text-align: left;
+}
+.spanSpec{
+    padding-left: 10px;
+    border-left: 1px solid #000000;
+}
